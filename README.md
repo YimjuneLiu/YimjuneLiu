@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @yimjune
-- 👀 I’m interested in ...
+- 👀 I’m interested in Computer Vision. 
 - 🌱 I’m currently learning 3D hand pose estimation. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 liuyanjunup@outlook.com
 
 <!---
 YimjuneLiu/YimjuneLiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
