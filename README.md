@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yimjune
-- 👀 I’m interested in Computer Vision. 
-- 🌱 I’m currently learning 3D hand pose estimation. 
+- 👀 I focus on Computer Vision, Deep Learning and Machine Learning. 
+- 🌱 I currently work on 3D PointCloud, 3D Reconstruction and 3D hand pose estimation. 
 - 📫 liuyanjunup@outlook.com
 
 <!---
